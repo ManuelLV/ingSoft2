@@ -1,0 +1,12 @@
+co\unicauca\measuringsystem\server\domain\FactoryMeasuringItem.class
+co\unicauca\measuringsystem\server\domain\MeasuringServer.class
+co\unicauca\measuringsystem\server\infra\MeasuringSystemServerSocket.class
+co\unicauca\measuringsystem\server\access\ICustomerRepository.class
+co\unicauca\measuringsystem\server\app\MeasuringSystemApplication.class
+co\unicauca\measuringsystem\server\domain\IMeasuringItem.class
+co\unicauca\measuringsystem\server\domain\services\CustomerService.class
+co\unicauca\measuringsystem\server\domain\Shooter.class
+co\unicauca\measuringsystem\server\domain\ProductItemMeasuring.class
+co\unicauca\measuringsystem\server\access\CustomerRepositoryImplArrays.class
+co\unicauca\measuringsystem\server\domain\Actuator.class
+co\unicauca\measuringsystem\server\domain\Sensor.class

@@ -1,0 +1,14 @@
+co\unicauca\measuringsystem\client\presentation\GUIMenu$2.class
+co\unicauca\measuringsystem\client\access\Factory.class
+co\unicauca\measuringsystem\client\presentation\GUIMenu$1.class
+co\unicauca\measuringsystem\client\presentation\GUIMenu.class
+co\unicauca\measuringsystem\client\access\IMeasuringSystem.class
+co\unicauca\measuringsystem\client\domain\services\MeasuringSystem.class
+co\unicauca\measuringsystem\client\access\CustomerMeasuringSystemImplSocket.class
+co\unicauca\measuringsystem\client\presentation\GUIIMesuringItem$2.class
+co\unicauca\measuringsystem\client\infra\MeasuringSystemSocket.class
+co\unicauca\measuringsystem\client\presentation\GUIMenu$3.class
+co\unicauca\measuringsystem\client\presentation\GUIIMesuringItem.class
+co\unicauca\measuringsystem\client\presentation\MeasuringSystem.class
+co\unicauca\measuringsystem\client\presentation\GUIIMesuringItem$1.class
+.netbeans_automatic_build

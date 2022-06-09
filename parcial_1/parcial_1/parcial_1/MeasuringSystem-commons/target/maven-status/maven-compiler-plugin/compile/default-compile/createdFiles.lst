@@ -1,0 +1,5 @@
+co\unicauca\measuringsystem\commons\infra\Parameter.class
+co\unicauca\measuringsystem\commons\infra\Utilidades.class
+co\unicauca\measuringsystem\commons\infra\Protocolo.class
+co\unicauca\measuringsystem\commons\infra\JsonError.class
+co\unicauca\measuringsystem\commons\domain\Product.class
